@@ -1,1 +1,38 @@
-{}
+{
+  "custom-field": "Indiana Pacers Corona Bar Network",
+  "custom-object": {
+    "custom-line": "data"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "date"
+    },
+    {
+      "custom-list-item": "time"
+    },
+    {
+      "custom-list-item": "opponentId"
+    },
+    {
+      "custom-list-item": "opponentName"
+    },
+    {
+      "custom-list-item": "iconFile"
+    },
+    {
+      "custom-list-item": "website"
+    },
+    {
+      "custom-list-item": "barName"
+    },
+    {
+      "custom-list-item": "address"
+    },
+    {
+      "custom-list-item": "appearances"
+    },
+    {
+      "custom-list-item": "eventLink"
+    }
+  ]
+}
